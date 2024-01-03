@@ -1,0 +1,23 @@
+![plot](https://raw.githubusercontent.com/programacao-eletronica/img/master/banner.png)
+
+<br /> 
+
+** **
+<br /> 
+
+# Notebooks python úteis para DSP
+
+Neste repositório encontram-se diversos notebooks úteis para geração de sinais, filtros, interpretação, entre outros (em desenvolvimento). Os códigos estão desenvolvidos no formato Jupyter Notebook (em Python), e podem ser executados dentro do Google Colab. Mais informações sobre essas ferramentas podem ser encontradas abaixo:
+
+- [O que é o Jupyer Notebook?](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
+- [O que é o Google Colab?](https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar)
+
+## Importante:
+
+O código dos notebooks jupyter são renderizados pelo GitHub. Isso significa que é possível visualizar todo o código (bem como as saídas de dados salvas) diretamente em cada notebook. Porém, caso você deseje executar o código ou fazer alterações e salvá-las, é necessário abrir dentro do próprio Google Colab. Para isso, basta clicar no badge <a><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> dentro de cada notebook.
+
+## Lista de notebooks
+
+<br /> 
+
+- [Gerador de buffer de sinais](./Gerador%20de%20buffer%20de%20sinais/Gerador%20de%20buffer%20de%20sinais.ipynb): útil para gerar um buffer de sinais em c, de tipo configurável (`u8`, `u16`, `u32` ou `float`) com base em senoides de frequencias e amplitudes tambem configuraveis.
