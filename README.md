@@ -22,3 +22,4 @@ O código dos notebooks jupyter são renderizados pelo GitHub. Isso significa que 
 <br /> 
 
 - [Gerador de buffer de sinais](./Gerador%20de%20buffer%20de%20sinais/Gerador%20de%20buffer%20de%20sinais.ipynb): útil para gerar um buffer de sinais em c, de tipo configurável (`uint8_t`, `uint16_t`, `uint32_t` ou `float`) com base em senoides de frequencias e amplitudes tambem configuraveis. Mais informações [neste post](https://programacaoeletronica.wordpress.com/2024/01/02/jupyter-notebook-gerador-de-buffer-de-senoides-em-c/).
+- [Gerador de janelas](./Gerador%20de%20janelas/Gerador%20de%20janelas.ipynb): útil para gerar funções de janelamento em c, de tipo configurável (`int8_t`, `uint8_t`, `int16_t`, `uint16_t`, `int32_t`, `uint32_t` ou `float`) com base em senoides de frequencias e amplitudes tambem configuraveis. Mais informações [neste post](https://programacaoeletronica.wordpress.com/2024/01/13/jupyter-notebook-gerador-de-janelas-em-c/).
